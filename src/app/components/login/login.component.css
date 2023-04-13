@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    border: 2px solid blue;
+    width:500px;
+    height: fit-content;
+    text-align: center;
+}
+.container1{
+    border: 2px solid blue;
+    width:500px;
+    height: fit-content;
+    text-align: center;
+}

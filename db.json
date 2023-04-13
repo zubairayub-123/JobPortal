@@ -1,0 +1,11 @@
+{
+  "users":[
+{   
+"id":1,   
+"email": "virat@gmail.com",  
+"password": "kohli$123",   
+"name": "Virat", 
+ "role":"employee"
+}
+    ]
+}
